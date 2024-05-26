@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Prasad Kate</h1>
-<h3 align="left">Frontend developer<h3>
+<h3 align="left">Frontend developer - MERN Stack<h3>
 
 
 - 🔭 I’m currently working with **Javascript, React and Next Js**
 - 🌱 I’m learning **React Native**
 
-- 💬 Ask me about **Javascript, React or Next JS**
+- 💬 Ask me about **Javascript, Typescript, React or Next JS**
 
 <br>
 
